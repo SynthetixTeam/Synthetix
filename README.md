@@ -11,7 +11,13 @@ Welcome to the Synthetix GitHub repository, your go-to source for all the projec
 
 ## Getting Started
 
-To get started with Synthetix, please visit our website and download the latest version of our browser extension.
+Thank you for your interest in Synthetix! To get started, follow these simple steps:
+
+- Clone the repository to your local machine using git clone https://github.com/synthetix-io/synthetix.git
+- Navigate to the root directory of the repository using cd synthetix
+- Install the necessary dependencies using npm install
+- Start the application using npm start
+You're ready to use Synthetix!
 
 ## Documentation
 
